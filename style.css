@@ -162,7 +162,7 @@ opacity: 0.9;
 	position: absolute;
 }
 
-.video-card:hover  .card-video {
+.video-card:hover  .video-card-image {
 	display: none;
 }
 .title{
